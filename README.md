@@ -1,2 +1,3 @@
 # MOOC-Coursera-IBM-Python-for-Data-Science-and-AI
-Desc
+
+Notebooks for the MOOC Coursera IBM Data Science
